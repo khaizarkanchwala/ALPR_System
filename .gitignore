@@ -1,0 +1,5 @@
+/backend/.env
+/backend/model_numberplate.pkl
+/backend/model_ocr.pkl
+/frontend/node_modules
+/app/node_modules
