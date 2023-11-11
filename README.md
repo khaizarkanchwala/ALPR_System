@@ -14,4 +14,4 @@ For better user interface a Wed application as well as an Mobile App using react
 
 ### app folder is Mobile App(React Native)
 ### frontend folder is Web App(React)
-### backend is server(Python(Flask,Predict logic))
+### backend is server(Python(Flask,Prediction pipeline logic))
